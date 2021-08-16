@@ -1,6 +1,6 @@
 # gerenciadordesaladereuniao
-Gerenciador de salas de reuniões (Back-End).
-Front-End: https://github.com/rodrigokaconde/gerenciadordesaladereuniaofront.git
+Gerenciador de salas de reuniões (Back-End).<br>
+Front-End: https://github.com/rodrigokaconde/gerenciadordesaladereuniaofront.git <br>
 
 ### Tecnologias utilizadas :computer:
 - Java
