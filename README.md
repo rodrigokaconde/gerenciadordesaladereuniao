@@ -11,17 +11,14 @@ Front-End:
 
 ### Pré-requisitos :white_check_mark:
 - Java 11
-- Maven
+- Maven 4.0
 
-### Como Rodar a Aplicação :rocket:
+### Como Iniciar Aplicação :rocket:
+*mvn spring-boot:run*
 
 
-### Acesse src/main/java/br/com/yahoo/rodrigokaconde
-
-#### ProjetoApplication.java (executar) :point_left:
-
-### Após execução do ProjetoApplication o Banco de Dados pode ser acessado em http://localhost:8081/h2 com as seguintes configurações:
-#### JDBC URL: jdbc:h2:file:~/dio
+### Após execução do ProjetoApplication o Banco de Dados pode ser acessado em http://localhost:8082/h2 com as seguintes configurações:
+#### JDBC URL: jdbc:h2:file:~/test
 #### User Name: sa
 #### Password: 
 
